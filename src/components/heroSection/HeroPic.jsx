@@ -12,7 +12,7 @@ const HeroPic = () => {
       className=" h-full flex items-center justify-center "
     >
       <img
-        src="../../public/images/mainiconsdark.svg"
+        src="/images/mainiconsdark.svg"
         alt="Sanju Kumar Jha"
         className="max-h-[500px] w-[90%]"
       />
