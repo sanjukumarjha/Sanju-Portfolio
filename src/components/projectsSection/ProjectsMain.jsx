@@ -8,7 +8,7 @@ const projects = [
     name: "Biodegradable Plastic Lifecycle Simulation",
     year: "Apr 2025 - May 2025",
     align: "right",
-    image: "/images/biodegradable.jpg",
+    image: "/public/images/biodegradable.jpg",
     link: "https://dulcet-rolypoly-04e896.netlify.app/",
     github: "https://github.com/sanjukumarjha/Biodesim",
     description:
@@ -29,7 +29,7 @@ const projects = [
     year: "Aug 2024 - Oct 2024",
     align: "right",
     image: "/public/images/SanSocial.jpg",
-    link: "https://sanjukumarjha.github.io/SanSocial/",
+    link: "/public/images/SanSocial.jpg",
     github: "https://github.com/sanjukumarjha/SanSocial",
     description:
       "SanSocial is a dynamic front-end social media web interface built using HTML, CSS, and JavaScript. Designed as a modern, responsive platform, it simulates core features of a social networking site—such as user profiles, post feeds, likes, comments, and notifications—all without the use of a backend.\n\nThe project focuses on creating a visually appealing and interactive user experience, utilizing JavaScript for DOM manipulation, responsive layout techniques for mobile compatibility, and CSS animations for smooth transitions and hover effects.\n\n🛠️ Tech Stack: HTML, CSS, JavaScript (Vanilla)",
